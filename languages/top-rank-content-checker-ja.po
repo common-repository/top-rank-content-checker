@@ -1,0 +1,179 @@
+# Translation of Plugins - Top Rank Content Checker - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Top Rank Content Checker - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-02 05:57:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Top Rank Content Checker - Stable (latest release)\n"
+
+#: readme.txt
+msdid ""
+msgstr ""
+
+#: readme.txt
+msdid "Get information from Google "Custom Search JSON API" and display it."
+msgstr "Google "Custom Search JSON API" から情報を取得し、表示します。"
+
+#: readme.txt
+msdid "If you want to know more about "Custom Search JSON API", look at [this site](https://developers.google.com/custom-search/v1/overview)."
+msgstr ""Custom Search JSON API"について詳しく知りたい場合は[このサイト](https://developers.google.com/custom-search/v1/overview?hl=ja)を見てください。"
+
+#: readme.txt
+msdid "You have to comply with ["Custom Search JSON API" terms of use](https://developers.google.com/custom-search/terms)."
+msgstr "あなたは ["Custom Search JSON API" 利用規約](https://developers.google.com/custom-search/terms?hl=ja)を遵守しなければなりません。"
+
+#: readme.txt
+msdid "You can search top rank contents in each keyword."
+msgstr "各キーワードで上位のコンテンツを検索できます。"
+
+#: top-rank-content-checker.php
+msgid "This is keyword rank checker in Classic Editor.You could view top rank contents rapidly."
+msgstr "検索キーワードで上位表示されているコンテンツを探し、すばやくコンテンツに反映できるプラグインです。"
+
+#: top-rank-content-checker.php
+msgid "Top Rank Content Checker"
+msgstr "上位表示コンテンツチェッカー"
+
+#: top-rank-content-checker.php
+msgid "And More"
+msgstr "より多くの上位表示コンテンツを表示するには？"
+
+#: top-rank-content-checker.php
+msgid "View this site"
+msgstr "サイトを見る"
+
+#: /admin/setting.php:18
+msgid "Google Auth Key"
+msgstr "Google auth キー"
+
+#: /admin/setting.php:28
+msgid "If you don't know how to get Google Auth key,please look at installation guide."
+msgstr "Google Auth キーの取得方法が分からない方は、こちらのインストール方法をみてください。"
+
+#: /admin/setting.php
+msgid "where Google Custom Search ID"
+msgstr "Googleカスタム検索IDの調べ方が分からない方はこちら"
+
+#: /admin/addon.php:29
+msgid "Add-Ons will enable you to do this."
+msgstr "アドオンを購入すると以下のことが行えるようになります。"
+
+#: /admin/addon.php:29
+msgid "Addon's Feature"
+msgstr "アドオン"
+
+#: /admin/addon.php:29
+msgid "Add-Ons"
+msgstr "アドオン"
+
+#: /admin/addon.php:29
+msgid "How to get Addon"
+msgstr "アドオンの購入方法"
+
+#: /admin/addon.php
+msgid "Content with search ranking 4 to 10 is also displayed."
+msgstr "検索順位が4~10位のコンテンツも表示されます。"
+
+#: /admin/addon.php
+msgid "You can easily add headings from the editor (in Classic Editor only)."
+msgstr "エディターから簡単に見出しを追加できます（クラシックエディターのみ）。"
+
+#: /admin/install.php
+msgid "This is Installation guide"
+msgstr "インストール方法の説明"
+
+#: /admin/install.php
+msgid "1.Get API key"
+msgstr "1.APIキーを入手しよう"
+
+#: /admin/install.php
+msgid "If you not have Google Account,Create Google Account"
+msgstr "Googleアカウントをお持ちでない方は、作成してください。"
+
+#: /admin/install.php
+msgid "Create Google Account"
+msgstr "Googleアカウントを作成"
+
+#: /admin/install.php
+msgid "Next,access to <a href="https://console.cloud.google.com/">Google Cloud Console</a>"
+msgstr "その後、<a href="https://console.cloud.google.com/">Google Cloud Console</a>へアクセスします。"
+
+
+#: /admin/install.php
+msgid "Select "APIs and Services"-> "Dashboard" from the top left menu."
+msgstr "左上のメニューから「APIとサービス」→「ダッシュボード」を選択します。"
+
+#: /admin/install.php
+msgid "Click "Enable API and Service" on the screen."
+msgstr "画面上の「APIとサービスの有効化」をクリックします。"
+
+
+#: /admin/install.php
+msgid "Select "APIs and Services"-> "Dashboard" from the top left menu."
+msgstr "左上のメニューから「APIとサービス」→「ダッシュボード」を選択します。"
+
+#: /admin/install.php
+msgid "I will move to the screen to search for the API, so I will search for "Custom Search" here, search for "Custom Search API" and activate it.."
+msgstr "APIを検索する画面へ移るので、ここで「Custom Search」と検索し、「Custom Search API」を探し、有効化します。"
+
+#: /admin/install.php
+msgid "When activation is complete, from menu "API and service" → "Authentication information" → "Create authentication information" → "API key" and press to issue the API key."
+msgstr "有効化が完了したら、メニューの「APIとサービス」→「認証情報」から「認証情報を作成」→「APIキー」を押し、APIキーを発行します。"
+
+#: /admin/install.php
+msgid "2.Setting"
+msgstr "2.設定"
+
+#: /admin/install.php
+msgid "Please enter the API key from "Top Rank Content Checker"-> "Google auth key" for the previously acquired APi key."
+msgstr "先程取得したAPiキーを「Top Rank Content Checker」→「Google auth キー」でAPIキーを入力してください。"
+
+#: /admin/install.php
+msgid "Next, go to Custom Search Engine."
+msgstr "次に、カスタム検索エンジンの設定をします。"
+
+#: /admin/install.php
+msgid "And create New Search Engine.Enter information according to the reference below."
+msgstr "新しくカスタム検索エンジンを作成します。下の画像を参考にフォームを入力してください。"
+
+#: /admin/install.php
+msgid "And go to edit page on this Custom Search Engine.Delete search site. And you can get Google Custom Search ID."
+msgstr "完了したら編集ページへ行き、検索サイトを削除します。また、カスタム検索IDを取得してください。"
+
+#: /admin/install.php
+msgid "If you complete configuration,you could use top rank checker in post editor."
+msgstr "設定が完了したら、エディターで上位表示コンテンツチェッカーが使えるようになります。"
+
+#: /admin/install.php
+msgid "Price is based on <a href=\"https://developers.google.com/custom-search/v1/overview\" target=\"_blank\">Custom Search API</a> (100 request per 1day for free)"
+msgstr "料金は<a href=\"https://developers.google.com/custom-search/v1/overview\" target=\"_blank\">カスタム検索API</a>に基づきます。（1日に100リクエストまでは無料）"
+
+#: /auto-youtube-summarize.php:140
+msgid "This function needs addons.Please see Add-ons page"
+msgstr "この機能を利用するにはアドオンが必要になります。"
+
+#: /auto-youtube-summarize.php:140
+msgid "Set Yor Keyword"
+msgstr "キーワードを入力"
+
+
+
+msgid "This tool displays the title, the number of characters, and the headline of the content above the search order of the specified keyword, and helps you create the content.
+
+Understanding what kind of headline articles appear at the top helps you with ideas for similar content and original content.
+
+It is hard to open various tools while opening WordPress, but if this plug-in is inserted, everything will be completed in the editor.
+
+Add-ons allow you to see in more detail the features and top-view content you can add headings with a single click."
+msgstr "このツールは、指定したキーワードの検索順位の上位のコンテンツのタイトルや文字数、見出しを表示し、あなたがコンテンツを作成するのを支援します。
+
+どのような見出しの記事が上位に表示されているかを理解することで、それに似たコンテンツやオリジナルコンテンツのアイデアの手助けになります。
+
+WordPressを開きながら、いろんなツールを開くのは大変ですが、このプラグインを入れておけばエディターですべてが完結します。
+
+アドオンをつけると、ワンクリックで見出しを追加出来る機能や上位表示コンテンツをさらに詳細に見ることが出来ます。"

@@ -1,0 +1,8 @@
+p.archive_headline {
+	line-height: 1;
+	margin: .5em 0;
+}
+.add_headline {
+	font-size: inherit;
+	cursor: pointer;
+}
